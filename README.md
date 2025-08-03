@@ -43,22 +43,21 @@ While this is a game development project, it strengthened several skills directl
 - **Data parsing from JSON** (a common data format)
 - **Debugging complex systems incrementally**
 
-This project demonstrates my ability to handle large codebases, abstract logic, and build interactive, real-time systems — all valuable in data-heavy environments.
-
 ---
 
 ## Screenshots
 
-<p align="center">
-  <img src="media/screenshot1.png" width="400"/>
-  <img src="media/screenshot2.png" width="400"/>
-</p>
+<img width="955" height="692" alt="image" src="https://github.com/user-attachments/assets/fe96678e-0e95-40c6-819f-a9f50d006de2" />
+<img width="955" height="692" alt="image" src="https://github.com/user-attachments/assets/e47ee978-19c9-4c82-a2b3-36bd1cf516dc" />
+<img width="963" height="805" alt="image" src="https://github.com/user-attachments/assets/b33702f8-ec8b-4c63-a02d-44ba9defc6aa" />
+
+
 
 ---
 
 ## Gameplay Demo
 
-[![Watch on YouTube](https://img.shields.io/badge/Gameplay-Demo-red?logo=youtube)](https://youtube.com/your-demo-link)
+https://github.com/user-attachments/assets/82a5aa2d-5cfa-499b-8901-0ed7ae2297f5
 
 ---
 
