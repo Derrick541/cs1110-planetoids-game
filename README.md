@@ -48,7 +48,7 @@ While this is a game development project, it strengthened several skills directl
 ## Screenshots
 
 <img width="955" height="692" alt="image" src="https://github.com/user-attachments/assets/fe96678e-0e95-40c6-819f-a9f50d006de2" />
-<img width="955" height="692" alt="image" src="https://github.com/user-attachments/assets/e47ee978-19c9-4c82-a2b3-36bd1cf516dc" />
+<img width="959" height="734" alt="image" src="https://github.com/user-attachments/assets/ca1884d2-c54e-4a35-9cfd-d8a3ff604afe" />
 <img width="963" height="805" alt="image" src="https://github.com/user-attachments/assets/b33702f8-ec8b-4c63-a02d-44ba9defc6aa" />
 
 
